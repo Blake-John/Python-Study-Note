@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="en"> 
+
+<head>
+    <meta charset="UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 标签之间的关系：并列关系 嵌套关系-->
+    <!-- 1.双标签：标签之间自动换行-->
+
+        <!-- 标题标签 大小是从大到小 -->
+        <!-- 
+            特点：
+            • 文字都有加粗
+            • 文字都有变大，并且从h1 → h6文字逐渐减小
+            • 独占一行
+         -->
+        <h1>itcast</h1>
+        <h2>itcast</h2>
+        <h3>itcast</h3>
+
+        <!-- 段落标签 -->
+        <!-- 
+            特点：
+            • 段落之间存在间隙
+            • 独占一行
+         -->
+        <p>1233211234567</p>
+        <p>3211237654321</p>
+    
+    <!-- 2.单标签 -->
+
+        <!-- 换行标签 让标签强制换行 -->
+        blake
+        john
+        <br>
+        blake<br>john
+
+        <!-- 横线标签 在页面中显示一条水平线 -->
+        <hr>
+    
+    <!-- 3.带有属性的标签 -->
+    <!-- 
+        属性注意点：
+        1. 标签的属性写在开始标签内部
+        2. 标签上可以同时存在多个属性
+        3. 属性之间以空格隔开
+        4. 标签名与属性之间必须以空格隔开
+        5. 属性之间没有顺序之分 
+    -->
+
+        <!-- 图片标签 scr获取位置 alt编写名称-->
+        <img src="D:/战双/鳞波沫舞.jpg" alt="Lucia">
+
+        <!-- 链接标签 <a> -->
+        <!-- 
+            href 指定链接
+                空链接 href="#" 
+                功能：回到顶部
+            target 指定目标网页的打开方式
+                    _self 覆盖原网页
+                    _blank 保留原网页
+            标签特点
+            • 双标签，内部可以包裹内容
+            • 如果需要a标签点击之后去指定页面，需要设置a标签的href属性
+            显示特点：
+            • a标签默认文字有下划线
+            • a标签从未点击过，默认文字显示蓝色
+            • a标签点击过之后，文字显示为紫色（清除浏览器历史记录可恢复蓝色）
+         -->
+        <a href="D:/战双/鳞波沫舞.jpg">鳞波沫舞</a>
+        <a href="https://ww.baidu.com" target="_blank">baidu</a>
+
+        <!-- 所有双标签都可以嵌套 -->
+        <a href="D:/战双/繁星.jpg">
+            <img src="D:/战双/繁星.jpg" alt="Aila">
+        </a>
+
+        <a href="#">回到顶部</a>
+
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+['//cdnimg01.kurogame.com/M00/14/66/ChpCl13fl5aEBnT5AAAAACPtUqI631.jpg',
+ '//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4fGEcwEEAAAAAAtmwaA405.jpg',
+ '//cdnimg01.kurogame.com/M00/19/10/ChpCl2BJ4eGEPVVrAAAAAPHOEgE920.jpg',
+ '//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4dCEWmVTAAAAACwWAmY754.jpg', 
+'//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ4AyEaY8_AAAAAEJBe5M574.jpg',
+ '//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ3_mEFj_jAAAAALNaruE893.jpg',
+ '//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ39qEcakmAAAAAFNXaEI997.jpg', 
+'//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ38CEc1gAAAAAAJRijKE010.jpg',
+ '//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ33uEdh5EAAAAALz8rV8247.jpg',
+ '//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ32WEbcCYAAAAAEiVrEc136.jpg',
+ '//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ31SEHtK6AAAAANFJMCQ912.jpg']

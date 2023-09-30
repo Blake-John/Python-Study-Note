@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 
+        <table> 表格标签
+            (属性) border指边框 style指样式
+            border="1px" style="border-collapse:collapse"
+        <tr> 表格行标签
+        <th> 表格头标签
+        <td> 表格数据标签
+        <capiton> 表格标题
+        表格结构标签：
+        <thead> 表格头部
+        <tbody> 表格主体
+        <tfoot> 表格的底部
+     -->
+
+     <table border="1px" style="border-collapse: collapse;">
+         <!-- 第一行 -->
+         <tr>
+             <th>name</th>
+             <th>age</th>
+             <th>sex</th>
+         </tr>
+         <!-- 第二行 -->
+         <tr>
+             <td>老王</td>
+             <td>18</td>
+             <td>男</td>
+         </tr>
+         <!-- 第三行 -->
+         <tr>
+            <td>老李</td>
+            <td>20</td>
+            <td>男</td>
+         </tr>
+     </table>
+     
+     <br>
+
+     <!-- 
+         border 表格的边框
+         width 表格的宽
+         height 表格的高
+      -->
+      <!-- 
+          合并单元格步骤：
+            1. 明确合并哪几个单元格
+            2. 通过左上原则，确定保留谁删除谁
+                • 上下合并→只保留最上的，删除其他
+                • 左右合并→只保留最左的，删除其他
+            3. 给保留的单元格设置：跨行合并(rowspan)或者跨列合并(colspan)
+                rowspan="合并个数" 垂直合并单元格
+                colspan="合并个数" 水平合并单元格
+            注意点：
+            • 只有同一个结构标签中的单元格才能合并，不能跨结构标签合并（不能跨：thead、tbody、tfoot）
+       -->
+     <table border="1px" width="300" height="200">
+         <caption>
+             <h3>学生成绩单</h3>
+         </caption>
+         <thead>
+            <tr>
+                <th>姓名</th>
+                <th>成绩</th>
+                <th>评语</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+                <td>小哥哥</td>
+                <td rowspan="2">100分</td>
+                <td>帅气</td>
+            </tr>
+            <tr>
+                <td>小姐姐</td>
+                <!-- <td>100分</td> -->
+                <td>漂亮</td>
+            </tr>
+         </tbody>
+         <tfoot>
+            <tr>
+                <td>总结</td>
+                <td colspan="2">郎才女貌</td>
+                <!-- <td>郎才女貌</td> -->
+            </tr>
+         </tfoot>
+         
+     </table>
+</body>
+</html>

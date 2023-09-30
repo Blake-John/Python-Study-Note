@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 2.类选择器  */
+        /* 需要给标签添加一个 class 属性,一个标签可以使用多个类,一个类选择器可以作用于多个标签 */
+        /* 注意点：
+            1. 所有标签上都有class属性，class属性的属性值称为类名（类似于名字）
+            2. 类名可以由数字、字母、下划线、中划线组成，但不能以数字或者中划线开头
+            3. 一个标签可以同时有多个类名，类名之间以空格隔开
+            4. 类名可以重复，一个类选择器可以同时选中多个标签 */
+        /* 语法：
+            .class{
+                attribute:value;
+            } */
+
+        .box1{
+            background-color: lightseagreen;
+            height: 50px;
+            width: 50px;
+        }
+        .box2{
+            background-color: palevioletred;
+        }
+
+        .red{
+            color: red;
+        }
+        .green{
+            color: green;
+        }
+        .blue{
+            color: blue;
+        }
+        .big{
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box1">123</div>
+    <div>123</div>
+    <div class="box2">123</div>
+
+    <p class="box1">321</p>
+    <p>321</p>
+    <p class="box2">321</p>
+
+    <h1 class="red big">小红</h1>
+    <h1 class="green">小绿</h1>
+    <h1 class="blue">小蓝</h1>
+    <h2 class="red">我也要变红</h2>
+</body>
+</html>

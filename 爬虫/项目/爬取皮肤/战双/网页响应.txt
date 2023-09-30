@@ -1,0 +1,315 @@
+		<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>战双帕弥什官网</title>
+		<meta name="keywords" content="战双帕弥什,战双帕弥什官网,战双,战双官网,战双手游,战双下载,战双安卓,战双iOS,punishing,库洛游戏,kurogame" />
+		<meta name="referrer" content="no-referrer" />
+		<meta name="description" content="《战双帕弥什》是一款末世科幻题材的3D动作手游。您在游戏中将化身为指挥官，带领人类最后的希望——仿生人形「构造体」，共同对抗被「帕弥什」病毒感染的机械大军。" /><meta name="csrf-param" content="cms_csrf">
+<meta name="csrf-token" content="ibWVH1dWR-6V9geUgUtY95xxT8tRRtCOUqmda2v4v0DK--RoATMfjd6OYNfjLR-S7jt2syMi5bd_5_RaP4DdOA==">
+
+		<link rel="stylesheet" href='https://cdnstatic.kurogame.com/punishing/../common/css/yx.css'/>
+		<link rel="shortcut icon" href="//cdnimg02.kurogame.com/M00/0D/E3/ChpCl1waFqGEYFxiAAAAAC9iOaY337.png?1.0.0">
+		<link rel="stylesheet" href="https://cdnstatic.kurogame.com/punishing/1.0/css/swiper-3.4.2.min.css" />
+		<link rel="stylesheet" href="https://cdnstatic.kurogame.com/punishing/1.0/css/animate.min.css" />
+		<link rel="stylesheet" href="https://cdnstatic.kurogame.com/punishing/2.0/css/commin.css" />
+		<script type="text/javascript" src="https://cdnstatic.kurogame.com/punishing/1.0/js/jquery-1.11.2.min.js"></script>
+		<script data-fixed="true">
+			if((/iphone|android|mobile/i.test(navigator.userAgent.toLowerCase()))) {
+				location.href = "/m"+window.location.pathname+window.location.search;
+			}
+		</script>
+	</head>
+
+	<body>
+		<!--	菜单 -->
+		<div class="header">
+    <div class="f_header"><img src="https://cdnstatic.kurogame.com/punishing/2.0/images/logo.png" alt="" /><img src="https://cdnstatic.kurogame.com/punishing/2.0/images/logo1.png" alt="" /></div>
+    <div class="s_header">
+        <a href="/index.html" class="icon"><img src="https://cdnstatic.kurogame.com/punishing/2.0/images/icon.png" alt="" /></a>
+        <ul>
+            <li class="">
+                <a href="/index.html">首页</a>
+            </li>
+            <!--<li>
+                <a href="/gl/list_1911_1.html" target="_blank">游戏攻略</a>
+            </li>-->
+            <!--<li>
+                <a href="/p/world.html" target="_blank">世界观</a>
+            </li>-->
+            <li>
+                <a href="https://wiki.biligame.com/zspms/%E9%A6%96%E9%A1%B5?hmsr=%E5%AE%98%E7%BD%91&hmpl=&hmcu=&hmkw=&hmci=" target="_blank">游戏WIKI</a>
+            </li>
+            <li>
+                <a href="/sg_per/list_2234_1.html" target="_blank">角色索引</a>
+            </li>
+            <li>
+                <a href="/surrounding-mall/index" target="_blank">周边商城</a>
+            </li>
+<!--            <li>-->
+<!--                <a href="/h5/m/springFestival" target="_blank">新年知识竞赛</a>-->
+<!--            </li>-->
+<!--            <li>-->
+<!--                <a href="/h5/eden" target="_blank">伊甸文化纪</a>-->
+<!--            </li>-->
+        </ul>
+        <!--<a href="https://zspms.biligame.com/krzt/" class="bi" target="_blank" style="margin-left:36px;"><img src="https://cdnstatic.kurogame.com/punishing/2.0/images/bi1.png" alt="" /></a>-->
+    </div>
+</div>		<link rel="stylesheet" href="https://cdnstatic.kurogame.com/punishing/2.0/css/list.css" />
+		<div class="kv p_kv">
+			<div class="c_wrap">
+				<img src="https://cdnstatic.kurogame.com/punishing/2.0/images/ju.png" alt="" class="ju" />
+			</div>
+		</div>
+		<div class="pe_main">
+			<div class="wrap">
+								<ul class="pe_ul">
+											<li data-img="//cdnimg01.kurogame.com/M00/14/66/ChpCl13fl5aEBnT5AAAAACPtUqI631.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/14/81/ChpCl13nVj6EUyU4AAAAAIaOKno934.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/14/81/ChpCl13nVj6EUyU4AAAAAIaOKno934.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>丽芙-纯白之花</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4fGEcwEEAAAAAAtmwaA405.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4e-ESbAlAAAAAAtmwaA535.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4e-ESbAlAAAAAAtmwaA535.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>白鹰归队</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg01.kurogame.com/M00/19/10/ChpCl2BJ4eGEPVVrAAAAAPHOEgE920.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4d6EYBXSAAAAAPHOEgE438.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4d6EYBXSAAAAAPHOEgE438.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>断发</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg02.kurogame.com/M00/19/10/ChpCl2BJ4dCEWmVTAAAAACwWAmY754.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/19/10/ChpCl2BJ4cuEJASrAAAAACwWAmY499.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/19/10/ChpCl2BJ4cuEJASrAAAAACwWAmY499.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>繁星</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ4AyEaY8_AAAAAEJBe5M574.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ4AaEaKgzAAAAAEJBe5M005.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ4AaEaKgzAAAAAEJBe5M005.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>最后的慰藉2</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ3_mEFj_jAAAAALNaruE893.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ3_WENwK2AAAAALNaruE063.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ3_WENwK2AAAAALNaruE063.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>最后的慰藉1</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ39qEcakmAAAAAFNXaEI997.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ39aES9ioAAAAAFNXaEI798.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ39aES9ioAAAAAFNXaEI798.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>医鸮</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ38CEc1gAAAAAAJRijKE010.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ37yEGUi0AAAAAJRijKE892.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ37yEGUi0AAAAAJRijKE892.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>血战</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ33uEdh5EAAAAALz8rV8247.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ33iELxMrAAAAALz8rV8291.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ33iELxMrAAAAALz8rV8291.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>谢幕</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ32WEbcCYAAAAAEiVrEc136.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ312ELuBqAAAAAEiVrEc018.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg01.kurogame.com/M00/19/0F/ChpCl2BJ312ELuBqAAAAAEiVrEc018.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>无人区之花</p>
+							</a>
+						</li>
+											<li data-img="//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ31SEHtK6AAAAANFJMCQ912.jpg">
+							<a href="javascript:;">
+								<!-- <img src="//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ306EMBB6AAAAANFJMCQ382.jpg" alt="" />								 -->
+								<div style="background: url('//cdnimg02.kurogame.com/M00/19/0F/ChpCl2BJ306EMBB6AAAAANFJMCQ382.jpg') no-repeat; background-size: auto 100%;" ></div>
+								<p>万事</p>
+							</a>
+						</li>
+									</ul>
+				<ul class="page"><li class="first disabled"><span>首页</span></li>
+<li class="prev disabled"><span>上一页</span></li>
+<li class="active"><a href="/image/list_2101_1.html?per-page=11" data-page="0">1</a></li>
+<li><a href="/image/list_2101_2.html?per-page=11" data-page="1">2</a></li>
+<li><a href="/image/list_2101_3.html?per-page=11" data-page="2">3</a></li>
+<li><a href="/image/list_2101_4.html?per-page=11" data-page="3">4</a></li>
+<li><a href="/image/list_2101_5.html?per-page=11" data-page="4">5</a></li>
+<li><a href="/image/list_2101_6.html?per-page=11" data-page="5">6</a></li>
+<li><a href="/image/list_2101_7.html?per-page=11" data-page="6">7</a></li>
+<li class="next"><a href="/image/list_2101_2.html?per-page=11" data-page="1">下一页</a></li>
+<li class="last"><a href="/image/list_2101_10.html?per-page=11" data-page="9">尾页</a></li></ul>
+							</div>
+		</div>
+		<div class="game_tc">
+			<div class="g_bottom">
+				<img src="https://cdnstatic.kurogame.com/punishing/2.0/images/image_prev.png" alt="" class="g_prev" />
+				<img src="https://cdnstatic.kurogame.com/punishing/2.0/images/image_next.png" alt="" class="g_next" />
+			</div>
+			<div class="g_tc">
+				<!-- <img src="https://cdnstatic.kurogame.com/punishing/2.0/images/close.png" alt="" class="close" /> -->
+				<img src="https://cdnstatic.kurogame.com/punishing/2.0/images/kv.jpg" alt="" class="g_img" />
+			</div>
+		</div>
+		<div class="i-footer">
+	<div class="i-fotcon">
+		<div class="i-fot-logo"><a href="http://kurogame.com/"><img src="https://cdnstatic.kurogame.com/punishing/2.0/images/i-fot-logo.png" alt="库洛游戏"></a></div>
+		<div class="i-fot-text">
+			<div class="i-fot-left">
+				<p>本公司游戏产品适合16岁（含）以上玩家娱乐</p>
+			</div>
+			<div class="i-fot-left">
+				<p >抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活</p>
+			</div>
+			<div class="i-fot-left"><p><a href="http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/00807dfed4d7495e8dc81a68e376aa7b" target="_blank"><img src="https://cdnstatic.kurogame.com/punishing/2.0/images/na.png" style="display: block;width:30px;height:30px;float:left;vertical-align: middle;margin-top:9px;margin-right:7px;"/>粤网文〔2018〕7561-2737号</a>丨粤B2-20190166丨粤ICP备18069368号-1丨国新出审[2019]2655号
+				<div class="i-fot-left"><p>ISBN 978-7-498-06783-8丨著作权人：广州库洛科技有限公司丨出版单位: 上海科学技术文献出版社有限公司  <br />©2018广州库洛科技有限公司 丨联系方式：kefu@kurogame.com</p></div>
+		</div>
+	</div>
+</div>
+</div>
+<script type="text/javascript" src="https://cdnstatic.kurogame.com/punishing/1.0/js/swiper-3.4.2.min.js"></script>
+<script type="text/javascript" src='https://cdnstatic.kurogame.com/punishing/../common/js/statics.js'></script>
+<script type="text/javascript" src='https://cdnstatic.kurogame.com/punishing/../common/js/yx.js'></script>
+<script type="text/javascript" src="https://cdnstatic.kurogame.com/punishing/2.0/js/index.js"></script>
+        <script>
+            var player = '';
+            var default_height = '';
+            if ((/iphone|android|mobile/i.test(navigator.userAgent.toLowerCase()))) {
+                $('body').append("<link rel='stylesheet' href='https://cdnstatic.kurogame.com/punishing/../common/css/video_m.css'/>");
+                default_height = '10.125rem';
+            } else {
+                $('body').append("<link rel='stylesheet' href='https://cdnstatic.kurogame.com/punishing/../common/css/video.css'/>");
+                default_height = '400px';
+            }
+            $(function(){
+                $.getScript('https://cdnstatic.kurogame.com/punishing/../common/js/prism.js');
+                $('body').append("<link rel='stylesheet' href='https://g.alicdn.com/de/prismplayer/1.9.9/skins/default/index.css'/>");
+                $('head').append('<meta http-equiv="x-ua-compatible" content="IE=edge">');
+                videoInit();
+            });
+            
+            function videoInit()
+            {
+                $('.js_video_play').on('click',function(e){
+                    $('body').append("<div id='video_play'><div id='video_mask'></div><div id='video_tc'><div id='video_player'><div id='video_close'></div><div class='prism-player' id='J_prismPlayer'></div></div></div></div>");
+                    var url = $(this).attr('data-url');
+                    var cover = $(this).attr('data-img');
+                    $("#video_tc").show();
+                    $("#video_mask").show();
+                    videoPlay(url, cover);
+                    
+                })
+                $("#video_close").click(function(){
+                    $('#J_prismPlayer').html('');
+                    $("#video_tc").hide();
+                    $("#video_mask").hide();
+                    $('#video_play').remove();
+                    $('#mask').hide();
+                });
+            }
+            
+            function videoPlay(url, cover, height, autoplay, container)
+            {
+                if (autoplay == undefined || autoplay == '' || !autoplay) {
+                    autoplay = true;
+                }
+                if (height == undefined || height == '') {
+                    height = default_height;
+                }
+                if (container == undefined || container == '') {
+                    container = 'J_prismPlayer';
+                }
+                $.get('/videoPlay.html', {url:url, img:cover}, function(data){
+                    if (data.status == 0) {
+                        var player = new prismplayer({
+                        useH5Prism:true,
+                            id: container,
+                            autoplay: autoplay,
+                            source : data.msg,
+                            cover: data.img,//默认图片
+                            height: height,
+                        });   
+                    } else {
+                        $('#J_prismPlayer').html('');
+                        $("#video_tc").hide();
+                        $("#video_mask").hide();
+                        $('#video_play').remove();
+                        alert('亲，视频已经丢失，请联系客服^_^');
+                    }
+                    $("#video_close").click(function(){
+                        $('#J_prismPlayer').html('');
+                        $("#video_tc").hide();
+                        $("#video_mask").hide();
+                        $('#video_play').remove();
+                    });
+                    
+                }, 'json');
+            }
+            
+            
+        </script>		<script type="text/javascript">
+			//图片的索引
+			var index = 0;
+			$(".pe_ul li").click(function (){
+				index = $('.pe_ul li').index(this);
+				var src = $(this).attr("data-img");
+				$(".g_img").attr("src" , src);
+				$(".game_tc").show();
+			});
+			// $(".close").click(function (){
+			// 	$(".game_tc").hide();
+			// 	event.stopPropagation();
+			// });
+			$(".game_tc").click(function (){
+				if(event.target===this) {
+					$(".game_tc").hide();
+				}
+			});
+			// 上一页
+			$(".g_prev").click(function (){
+				event.stopPropagation();
+				if(event.target===this) {
+					index = index <= 0 ? ($(".pe_ul li").length-1) : (index-1);
+					var src=$(".pe_ul li").eq(index).attr("data-img");
+					$(".g_img").attr("src" , src);
+				}
+			});
+			// 下一页
+			$(".g_next").click(function () {
+				event.stopPropagation();
+				if(event.target===this) {
+					index = index >= ($(".pe_ul li").length-1) ? 0 : (index+1);
+					var src=$(".pe_ul li").eq(index).attr("data-img");
+					$(".g_img").attr("src" , src);
+				}
+			});
+		</script>
+	<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?132690f58976e65359f6cf26d85b0ba9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+
+</html>

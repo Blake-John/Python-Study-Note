@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- form 表单标签 -->
+    <!-- label 标记标签(通常和input标签一起使用) 用于绑定内容与表单标签的关系 
+        使用方法1：
+            1.使用label标签把内容（如：文本）包裹起来
+            2.在表单标签上添加id属性
+            3.在label标签的for属性中设置对应的id属性值
+        使用方法2：
+            1. 直接使用label标签把内容（如：文本）和表单标签一起包裹起来
+            2. 需要把label标签的for属性删除即可
+    -->
+    <!-- input 输入标签
+        type属性
+            输入框：
+                text 文本输入框 - placeholder 占位符，提示用户的文本
+                password 密码输入框 - placeholder 占位符，提示用户的文本
+            选择：
+                radio 单选框
+                    name 分组，有相同name属性值得单选框为一组，一组同时只能有一个被选中
+                    checked 默认选中
+                checkbox 复选框 - checked 默认选中
+                date 日期选择框
+            文件：file 上传文件 - multiple 多文件选择
+            按钮：
+                submit 提交按钮
+                reset 重置按钮
+                button 普通按钮，配合js添加功能
+        value属性
+            用户输入的内容，提交之后会发送给后端服务器
+        name属性
+            当前控件的含义，提交之后可以告诉后端发送过去的数据是什么含义
+    -->
+    <!-- button 按钮标签
+        type属性：
+            submit 提交按钮
+            reset 重置按钮
+            button 普通按钮
+     -->
+    <!-- textarea 多行文本框 
+            cols 文本域内可见宽度
+            rows 文本域内可见行数
+    -->
+    <!-- select 下拉菜单标签 
+            option 选项框
+    -->
+        
+
+     <form action="http://192.168.31.178" method="POST">
+         <p>
+            <label for="">姓名：</label>
+            <input type="text" name="name" placeholder="请输入姓名">
+         </p>
+         <p>
+             <label for="">电话号码：</label>
+             <input type="text" name="phone" placeholder="请输入电话号码">
+         </p>
+         <p>
+             <label for="">密码：</label>
+             <input type="password" name="password" placeholder="请输入密码">
+         </p>
+         <p>
+             <label for="">性别</label>
+             <input type="radio" name="sex" value="1" checked>男
+             <input type="radio" name="sex" value="0">女
+         </p>
+         <p>
+             <label for="">爱好：</label>
+             <input type="checkbox" id="one" name="hobby" value="1" checked><label for="one">敲代码</label>
+             <label><input type="checkbox" name="hobby" value="2" checked>熬夜</label>
+             <input type="checkbox" name="hobby" value="3">掉头发
+         </p>
+         <p>
+             <label for="">照片</label>
+             <input type="file" name="picture" multiple>
+         </p>
+         <p>
+             <label for="">个人描述</label><br>
+             <textarea name="description" cols="30" rows="4"></textarea>
+         </p>
+         <p>
+             <label for="">籍贯</label>
+             <select name="home">
+                 <option value="1">北京</option>
+                 <option value="2">上海</option>
+                 <option value="3" selected>广州</option>
+                 <option value="4">深圳</option>
+             </select>
+         </p>
+         <p>
+             <input type="submit" value="提交">
+             <input type="reset" value="重置">
+             <input type="button" value="普通按钮">
+         </p>
+     </form>
+</body>
+</html>

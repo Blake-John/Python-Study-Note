@@ -1,0 +1,49 @@
+<!-- css 层叠样式表 -->
+<!-- 常见属性：
+    color 文字颜色
+    font-size 文字大小
+    background-color 背景颜色
+    width 宽度
+    height 高度
+ -->
+ <!-- 注意点：
+        1. CSS 标点符号都是英文状态下的
+        2. 每一个样式键值对写完之后，最后需要写分号
+  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- 1.内嵌式 -->
+    <style>
+        /* 在style里写css代码 */
+        /* 语法：
+            label{attribute: value;} */
+        p {
+            /* 文字颜色 */
+            color: royalblue;
+            /* 文字大小 */
+            font-size: 30px;
+            /* 背景颜色 */
+            background-color: steelblue;
+            /* 标签宽度 */
+            width: 300px;
+            /* 标签高度 */
+            height: 300px;
+        }
+    </style>
+    <!-- 2.外联式 CSS 写在一个单独的.css文件中 通过 <link> 标签引入-->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <!-- 3.行内式 CSS 写在标签的style属性 只能在当前标签中使用,一般配合js使用 -->
+    <!-- 容器标签 <div> -->
+    <div style="height: 70px;width: 150px;background-color: aqua;">itcast</div>
+    <div>itcast</div>
+    <div>itcast</div>
+    <p>hellow world</p>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 文本水平对齐 */
+        /* text-align
+            取值：
+            left 左对齐
+            right 右对齐
+            center 居中对齐 */
+        .box {
+            width: 300px;
+            height: 300px;
+            /* background-color: rgb(184, 184, 184);
+            text-align: center; */
+            -webkit-border-radius: 50px; 
+            border-radius: 50px; 
+            background: #D1D8EC;
+            -webkit-box-shadow: 13px 13px 26px #b2b8c9,
+            -13px -13px 26px #f0f8ff;
+            box-shadow: 13px 13px 26px #b2b8c9,
+            -13px -13px 26px #f0f8ff;
+        }
+        .son {
+            text-align: center;
+        }
+        /* 
+        text-align : center 能让那些元素水平居中？
+            1. 文本
+            2. span标签、a标签
+            3. input标签、img标签
+        注意点：
+            1. 如果需要让以上元素水平居中， text-align : center 需要给以上元素的 父元素 设置 */
+        span {
+            -webkit-border-radius: 50px; 
+            border-radius: 50px; 
+            background: #dfdfdf;
+            -webkit-box-shadow: 12px 12px 24px #bebebe,
+            -12px -12px 24px #ffffff;
+            box-shadow: 12px 12px 24px #bebebe,
+            -12px -12px 24px #ffffff;
+        }
+
+        /* 如果需要让div、p、h（大盒子）水平居中？
+                • 可以通过margin : 0 auto ; 实现
+            注意点：
+                1. 如果需要让 div、p、h（大盒子） 水平居中，直接给 当前元素本身 设置即可
+                2. margin：0 auto 一般针对于固定宽度的盒子，如果大盒子没有设置宽度，此时会默认占满父元素的宽度 */
+        .box {
+            margin: 0 auto;
+        }
+
+        /* 行高 控制一行的上下行间距 */
+        /* 应用：
+            1. 让单行文本垂直居中可以设置 line-height : 文字父元素高度
+            2. 网页精准布局时，会设置 line-height : 1 可以取消上下间距 */
+        /* line-height
+            取值：
+            数字+px
+            倍数(当前标签 font-size 的倍数)
+         */
+         /* 行高与font连写的注意点：
+            • 如果同时设置了行高和font连写，注意覆盖问题
+            • font : style weight size/line-height family  */
+         .text {
+             line-height: 225px;
+         }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="son">
+            <span>Here I Am</span><br>
+            <input type="text" name="" id="" placeholder="Here I Am">
+            <p class="text">这是一行测试文本</p>
+        </div>
+    </div>
+</body>
+</html>
